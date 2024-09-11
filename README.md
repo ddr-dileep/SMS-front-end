@@ -17,19 +17,23 @@
 ## Table of Contents
 
 - SMS app
-- Swagger docs ->
+- react-vite (fronend)
+- node-express (backend)
+
+## Swagger api docs 
 
 ```
 https://sms-chatting-app.onrender.com/api-docs/
 ```
 
-## Create secreat string
+## site url
 
 ```
-
-node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
-
+https://sms-front-end.onrender.com
 ```
+
+
+
 
 ## Contact
 
